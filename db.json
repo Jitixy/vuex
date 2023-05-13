@@ -1,0 +1,193 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 25533,
+      "category": "animal welfare",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "ecd",
+      "description": "cwdsw",
+      "location": "ew",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 52888,
+      "category": "education",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "jitis marriage",
+      "description": "edwvszcdsz",
+      "location": "fuckpur",
+      "date": "2023-05-17T18:56:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 29868,
+      "category": "animal welfare",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "hvh",
+      "description": "ew",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": "5"
+    },
+    {
+      "id": 7974,
+      "category": "education",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": "7"
+    },
+    {
+      "id": 13326,
+      "category": "",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": "7"
+    },
+    {
+      "id": 72798,
+      "category": "",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": "2"
+    },
+    {
+      "id": 51168,
+      "category": "housing",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 51290,
+      "category": "housing",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "hello",
+      "description": "hio",
+      "location": "forsst",
+      "date": "2023-05-03T19:13:00.000Z",
+      "time": "21:00",
+      "attendees": []
+    },
+    {
+      "id": 16879,
+      "category": "education",
+      "organizer": {
+        "name": "jitii"
+      },
+      "title": "yrntbrsfgcbdrf",
+      "description": "etdfx hell is here",
+      "location": "etdfx hell is here",
+      "date": "2023-05-23T19:23:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    }
+  ]
+}

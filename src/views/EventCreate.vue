@@ -1,6 +1,6 @@
 <template>
   <div><h1>create an event</h1>
-    <form>
+    <form @submit.prevent="createEvent">
       <label>Select a category</label>
       <select v-model="event.category">
         <option v-for="cat in categories" :key="cat">{{ cat }}</option>
@@ -53,6 +53,19 @@ data(){
   }
 },
 methods:{
+  createEvent(){
+    this.$store.dispatch('createEvent',this.event).then(()=>
+    {
+      this.$router.push({
+        name:'event-show',
+        params:{id:this.event.id}
+      })
+      this.event =this.createFreshEventObject()}
+    ).catch(()=>{
+      console.log('there was an error while creating your event')
+    })
+    
+  },
   createFreshEventObject(){
     const user =this.$store.state.user
     const id =Math.floor(Math.random()*100000)
